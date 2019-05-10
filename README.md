@@ -1,4 +1,4 @@
-Code for the methods RFF-GPC and VFF-GPC. They use Fourier features approximations and variational inference to scale up GP classfication. The former samples the Fourier frequencies (in order to approximate the RBF kernel), whereas the latter optimizes over them. Both methods were introduced and tested in the context of remote sensing image classification, see the full reference.
+Code for the methods RFF-GPC and VFF-GPC. They use Fourier features approximations and variational inference to scale up GP classfication. The former samples the Fourier frequencies (in order to approximate the RBF kernel), whereas the latter optimizes over them. Both methods were introduced and tested in the context of remote sensing image classification.
 
 Full reference:\
 Morales-Álvarez P., Pérez-Suay A., Molina R., Camps-Valls G.\
