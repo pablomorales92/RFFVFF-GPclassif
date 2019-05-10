@@ -3,7 +3,7 @@ Code for the methods RFF-GPC and VFF-GPC. They use Fourier features approximatio
 Full reference:\
 Morales-Álvarez P., Pérez-Suay A., Molina R., Camps-Valls G.\
 Remote Sensing Image Classification With Large-Scale Gaussian Processes\
-IEEE Transactions on Geoscience and Remote Sensing, 2018
+IEEE Transactions on Geoscience and Remote Sensing, 2018\
 DOI: 10.1109/TGRS.2017.2758922
 
 ## Abstract
